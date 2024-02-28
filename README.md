@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=daos12&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/daos12?tab=repositories)
+
+
 <!--
 **daos12/daos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linguagens](https://github-readme-stats.vercel.app/api?username=daos12&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/daos12?tab=repositories)
 
 Here are some ideas to get you started:
 
